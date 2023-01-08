@@ -1,5 +1,8 @@
 #http://127.0.0.1:8000/docs#/ para ver la documentacion
 #http://127.0.0.1:8000/redoc segunda manera para ver la documentacion de nuestra api
+Bases de datos MongoDB
+FastAPI, passlib[bcrypt], python-jose[cryptography]
+Thunder client para comprobacion de si finciona o no 
 
 Iniciar el servidor: uvicorn main:app --reload
 
