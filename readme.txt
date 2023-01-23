@@ -51,3 +51,11 @@ y el @router.get("/products") quedaria @router.get("/")
 Para JWT se ha procedio a instalar 
 pip install "passlib[bcrypt]"
 pip install "python-jose[cryptography]"
+
+A la hora de iniciar el mongodDB
+"C:\Program Files\MongoDB\Server\6.0\bin\mongod.exe" --dbpath="c:\data\db"
+--dbpath="c:\data\db" 
+
+Asi podremos arrancar la instancia
+
+pip install pymongo 
